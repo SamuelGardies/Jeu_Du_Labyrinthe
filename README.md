@@ -11,3 +11,5 @@ Contenu:
 - Exécutable permettant de lancer directement le jeux
 
 Consignes d'utilisation:  
+Pour lancer directement le jeu, télécharger l'éxécutable du jeu.  
+Pour avoir accés au code complet du projet, consulter le dossier "Projet".
